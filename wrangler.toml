@@ -1,0 +1,10 @@
+name = "scudworker"
+main = "src/index.ts"
+compatibility_date = "2022-07-20"
+
+account_id = "051c3de644afdf46e7d7ca330aabda58"
+
+[[r2_buckets]]
+binding = 'scudbucket'
+bucket_name = 'scudbucket'
+preview_bucket_name = 'testbucket'
